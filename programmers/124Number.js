@@ -1,5 +1,5 @@
 // 124나라의 숫자
-function solution2(n) {
+function solution(n) {
     let answer = "";
     const numbers = [4, 1, 2];
 
